@@ -12,6 +12,7 @@ const consultaGet = async (req = request, res = response) => {
     res.status(200).json({
         'respuesta' : respuesta
     });
+    // rama
 }
 
 
